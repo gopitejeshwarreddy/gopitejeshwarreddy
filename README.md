@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gopi
-  📌 About Me 
+- 📌 About Me 
 - 🎓 Studying at SRM University
                                       <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gopitejeshwarreddy.visitor-badge&left_text=Hellow%20Visitors" />
 <div align="center">
