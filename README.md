@@ -17,7 +17,7 @@ About Me
 💻 Passionate about programming and problem-solving
 
 🔥 Interested in Data Structures & Algorithms, Web Development.
-                                <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gopitejeshwarreddy.visitor-badge&left_text=Hellow%20Visitors" />
+                                <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gopitejeshwarreddy.visitor-badge&left_text=Hello%20Visitors" />
 <div align="center">
   <table style="border-collapse: collapse;">
     <tr>
