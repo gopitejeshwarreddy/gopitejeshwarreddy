@@ -31,4 +31,7 @@ About Me
     </tr>
   </table>
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gopitejeshwarreddy/gopitejeshwarreddy/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gopitejeshwarreddy/gopitejeshwarreddy/output/github-snake.svg" />
+</picture>
