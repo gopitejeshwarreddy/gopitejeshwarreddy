@@ -14,7 +14,7 @@ About Me
 
 🎓 Second-year CSE student at SRM
 
-💻 Passionate about programming and problem-solving
+💻 Passionate about programming and problem-solvin
 
 🔥 Interested in Data Structures & Algorithms, Web Development.
                                 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gopitejeshwarreddy.visitor-badge&left_text=Hello%20Visitors" />
