@@ -12,7 +12,7 @@
 <br>
 About Me
 
-🎓 Second-year CSE student at SRM
+🎓 Second-year CSE student at SRM 
 
 💻 Passionate about programming and problem-solving
 
