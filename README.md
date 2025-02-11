@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=F78A8A&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+GOPI+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=fafbc&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+GOPI+!)](https://git.io/typing-svg)
 
 <h3 align="left"> &nbsp;&nbsp; Connect with Me 🤝🏻&nbsp;&nbsp;</h3>
 
