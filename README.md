@@ -6,7 +6,7 @@
 &nbsp; <a href="mailto:iamani23042006@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/100/000000/gmail.png"  width="50" /></a>
 </p>
 <br>
-About Me
+About  Me
  
 🎓 Second-year CSE student at SRM 
 
