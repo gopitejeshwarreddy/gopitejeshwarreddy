@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=FF5733&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+GOPI+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=F1C40F&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+GOPI+!)](https://git.io/typing-svg)
 <h3 align="left"> &nbsp;&nbsp; Connect with Me 🤝&nbsp;&nbsp;</h3>
 <p align="center"> 
 &nbsp; <a href="https://www.instagram.com/_.gopi._.tejeshwar._/"target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/100/000000/instagram-new.png" width="50" /></a>  
