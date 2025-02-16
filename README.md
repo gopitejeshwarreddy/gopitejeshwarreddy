@@ -7,7 +7,7 @@
 </p>
 <br>
 About  Me
-  
+
 -🎓 Second-year CSE student at SRM University
 
 -💻 Passionate about programming and problem-solving
