@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=FF0000&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+GOPI+!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=FFFFFF&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+GOPI+!)](https://git.io/typing-svg)
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gopitejeshwarreddy.visitor-badge&left_text=Hello%20Visitors" />
+ <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
 <h3 align="left"> &nbsp;&nbsp; Connect with Me 🤝&nbsp;&nbsp;</h3>
 <p align="center"> 
 &nbsp; <a href="https://www.instagram.com/_.gopi._.tejeshwar._/"target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/100/000000/instagram-new.png" width="50" /></a>  
@@ -13,7 +18,12 @@ About  Me
 -💻 Passionate about programming and problem-solving
 
 -🔥 Interested in Data Structures & Algorithms, Web Development.
-                                <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gopitejeshwarreddy.visitor-badge&left_text=Hello%20Visitors" />
+
+<br>
+
+
+<br>
+
 
 <div align="center">
   <table style="border-collapse: collapse;">
