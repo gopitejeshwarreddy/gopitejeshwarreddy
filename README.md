@@ -17,15 +17,15 @@ About  Me
 -💻 Passionate about programming and problem-solving
 
 -🔥 Interested in Data Structures & Algorithms, Web Development.
-
-<br>
-
-
-<br>
 </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>
       </td>
+<br>
+
+
+<br>
+
 
 <div align="center">
   <table style="border-collapse: collapse;">
