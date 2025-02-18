@@ -22,7 +22,10 @@ About  Me
 
 
 <br>
-
+</td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+      </td>
 
 <div align="center">
   <table style="border-collapse: collapse;">
