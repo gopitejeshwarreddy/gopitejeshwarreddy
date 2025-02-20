@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=FFFFFF&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+GOPI+!)](https://git.io/typing-svg)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gopitejeshwarreddy.visitor-badge&left_text=Hello%20Visitors" />
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="600">
