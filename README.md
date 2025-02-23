@@ -12,7 +12,7 @@
 About  Me
 
 -🎓 Second-year CSE student at SRM University
-
+<br/>
 -💻 Passionate about programming and problem-solving
 
 -🔥 Interested in Data Structures & Algorithms, Web Development.
