@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gopitejeshwarreddy.visitor-badge&left_text=Hello%20Visitors" />
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="600">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-<h3 align="left"> &nbsp;&nbsp; Connect with Me 🤝&nbsp;&nbsp;</h3>
+<h3 align="left"> &nbsp;&nbsp; Conne ct with Me 🤝&nbsp;&nbsp;</h3>
 <p align="center"> 
 &nbsp; <a href="https://www.instagram.com/_.gopi._.tejeshwar._/"target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/gopi-tejeshwar-reddy-3893662b9/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/100/000000/linkedin.png" width="50" /></a>
